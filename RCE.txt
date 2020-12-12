@@ -1,0 +1,11 @@
+Requerimientos
+R01: Analizar palabras individualmente para verificar si son palindromos
+R02: Verificar si la palabra se encuentra en la lista de palabras.
+
+Criterios de aceptacion
+C01: No se aceptan frases u oraciones.
+C02: No se aceptan numeros o caracteres especiales.
+
+Escenarios
+E01: anna = anna
+E02: racecar = racecar

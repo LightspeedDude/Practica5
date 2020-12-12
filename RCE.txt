@@ -1,0 +1,12 @@
+Requerimientos
+R01: Recorrer la lista de palabras otorgada por el profesor
+R02: Analizar palabras al derecho y al reves para verificar si es Palindromo
+
+Criterios de aceptacion
+C01: No acepta frases u oraciones.
+C02: No acepta numeros o caracteres especiales.
+C03: La palabra se aceptada en base al banco de palabras.
+
+Escenarios
+E01: Anna = Anna
+E02: Racecar = Racecar
